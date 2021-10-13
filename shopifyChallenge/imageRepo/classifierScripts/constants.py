@@ -1,0 +1,6 @@
+classMappingPath = './data/classMappingLitererer.csv'
+classMappingIndexedPath = './data/classMapIndexedLitererer.csv'
+rawLabelSetPath = './data/imageLabelsTrain.csv'
+hotEncodedLabelSetPath = './data/finalFdatasetLitererer.csv'
+processedH5ImageDataPath = './data/data200.h5'
+trainingImagesFolderPath ='./data/train_f/'
